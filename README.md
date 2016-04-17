@@ -1,17 +1,11 @@
 XY BOT :/
 
-*OPEN GIT BY " https://telegram.me/Behroozyaghi
+*OPEN GIT BY " https://github.com/dram1135/xybot
 
-*CHANNEL : channel : https://telegram.me/Nod32team
+*CHANNEL : channel : https://telegram.me/avirateam
  
 این گیت برای اولین بار در کل تلگرام اوپن شده و برای همه رایگان است
  
-
-اوپن شده  @behroozyaghi توسط خودم  
-
-ادرس کانالمون
-
-*channel : https://telegram.me/Nod32team
 
 حتما به روش زیر بدون تنظیم گیت هاب عمل کنید
 __________________________________________________________________________________________________________________________________
@@ -27,9 +21,9 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 cd $HOME
 
-git clone https://github.com/BH-YAGHI/Xy-NOD32BOT.git
+git clone https://github.com/dram1135/xybot
 
-cd Xy-NOD32BOT
+cd xybot
 
 chmod +x launch.sh
 
@@ -77,7 +71,7 @@ ________________________________________________________________________________
 
 ls
 
-cd xynod32
+cd xybot
 
 ./launch.sh
 _________________________________________________________________________________________________________________________________
